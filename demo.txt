@@ -1,3 +1,16 @@
 1 command>  git init (inisialized the in vs code)
 2nd command>git add .(to add all git in git)
 3 command>git add filename(to add some specific file)
+4 command git commit -m "write some message"
+5 command git config --global user.name faizulhoda
+5 command git config --global user.email smfaizulhoda3772@gmail.com
+6 command git log
+7 command git status
+                          PUSH CODE ON GIT-HUB THROUGH VS CODE
+                        1.SING UP WITH VS CODE WITH GIT-HUB
+                        2. TURN ON SYNC 
+                        3. CREATE REPO ON GIT HUB
+                        4.USE SOME command>
+                               . git branch -M main
+                                .git remote add origin https://github.com/smfaizulhoda/hellogit.git
+                                 .git push -u origin main
